@@ -21,7 +21,7 @@ A mobile journaling app built with React Native + Expo + Supabase. Users can wri
 ### 1. Clone the repo
 
 ```bash
-git clone 
+git clone https://github.com/Reshmasai/micro-journal-AI-app.git
 cd micro-journal-AI-app
 ```
 
